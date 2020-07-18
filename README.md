@@ -1,5 +1,7 @@
 # v2ray各平台图文使用教程
 
+每天更新：[免费V2Ray账号分享](https://github.com/iwxf/free-v2ray)
+
 v2ray各平台图文使用教程
 
 **1、windows系统的v2rayN图文使用方法**
