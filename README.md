@@ -55,6 +55,7 @@ v2ray各平台图文使用教程
 ![img](https://github.com/iwxf/v2ray-tutorial/blob/master/img/66875-v2ray5.png)
 
 **4、安卓系统的图文使用方法**
+使用[v2rayNG（第三方开发）](https://github.com/2dust/v2rayNG/releases)
 
 ![img](https://github.com/iwxf/v2ray-tutorial/blob/master/img/85e50-az1.png)
 
