@@ -4,8 +4,7 @@
 
 订阅链接：
 
-- `https://git.io/free-v2ray`
-- `https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscription`
+`https://iwxf.netlify.app`
 
 v2ray各平台图文使用教程
 
